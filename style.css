@@ -1,0 +1,14 @@
+#pp{
+    color:red;
+    font-size: 45px;
+}
+.navbar-menu a{
+    color: rgb(194, 42, 42);
+    font-size: 15px;
+    font-weight: 500;
+    margin-left: 30px;
+    transition: .90s linear;
+    border-bottom: 10px;
+   
+  }
+  
